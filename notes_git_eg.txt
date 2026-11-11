@@ -1,0 +1,1 @@
+This is an example of cloning , pushing and pulling using git and github
